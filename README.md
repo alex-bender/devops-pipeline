@@ -3,4 +3,4 @@ Devops example pipeline using [Concourse.ci](https://concourse.ci) and [Teletraa
 
 One of the miriads
 
-![DevOps pipeline](https://rawgit.com/alex-bender/devops-pipeline/master/devops-pipeline.svg "DevOps pipeline")
+![DevOps pipeline](https://cdn.jsdelivr.net/gh/alex-bender/devops-pipeline/devops-pipeline.svg "DevOps pipeline")
